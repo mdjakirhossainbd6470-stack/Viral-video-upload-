@@ -1,0 +1,5 @@
+{
+  "name": "Blogger Style Content Unlocker",
+  "description": "A web application designed to showcase content behind an 'ad-wall', mimicking a popular mobile UI pattern for bloggers and content creators. Users can see previews of content and must interact with 'unlock' buttons to view more.",
+  "requestFramePermissions": []
+}
